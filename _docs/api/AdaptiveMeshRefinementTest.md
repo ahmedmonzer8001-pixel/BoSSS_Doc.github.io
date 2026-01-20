@@ -1,7 +1,8 @@
 ---
 title: "AdaptiveMeshRefinementTest"
 parent: "API Reference"
-nav_order: 2
+nav_order: 5
+permalink: /docs/api/AdaptiveMeshRefinementTest/
 ---
 # Namespace: AdaptiveMeshRefinementTest
 
@@ -79,5 +80,6 @@ the data should remain constant under refinement and coarsening.
 
 ### Property: BoSSS.Application.AdaptiveMeshRefinementTest.ScalarTransportFlux.ParameterOrdering <a id="bosss.application.adaptivemeshrefinementtest.scalartransportflux.parameterordering"></a>
 **Summary:** the transport velocity
+
 
 
