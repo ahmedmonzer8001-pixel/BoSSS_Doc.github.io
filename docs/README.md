@@ -1,6 +1,11 @@
+---
+title: "BoSSSS-Documentation"
+permalink: /docs/
+---
+
 # BoSSSS-Documentation
 
-Welcome to the documentation of BoSSSS.
+Welcome to the BoSSS documentation.
 
 ## Sections
 - End-User Tutorials
