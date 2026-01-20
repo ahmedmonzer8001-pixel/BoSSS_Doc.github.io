@@ -1,5 +1,7 @@
 ---
 title: "BoSSSFoundationXDG"
+parent: "API Reference"
+nav_order: 5
 ---
 # Namespace: BoSSS.Foundation.XDG
 
@@ -9195,4 +9197,5 @@ in analog fashion to the spatial operator.
 
 ## Method: BoSSS.Foundation.XDG.DependentXTemporalOperator.GetMassMatrixBuilder(BoSSS.Foundation.UnsetteledCoordinateMapping,System.Collections.Generic.IList{BoSSS.Foundation.DGField},BoSSS.Foundation.UnsetteledCoordinateMapping) <a id="bosss.foundation.xdg.dependentxtemporaloperator.getmassmatrixbuilder(bosss.foundation.unsetteledcoordinatemapping,system.collections.generic.ilist{bosss.foundation.dgfield},bosss.foundation.unsetteledcoordinatemapping)"></a>
 **Summary:** as defined by interface
+
 
