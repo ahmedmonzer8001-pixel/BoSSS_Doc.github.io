@@ -9,19 +9,19 @@ This section contains the API documentation for BoSSS.
 
 ## Core framework
 
-- [BoSSS.Foundation](BoSSS.Foundation.html)
-- [BoSSS.Platform](BoSSS.Platform.html)
+- [BoSSS.Foundation](BoSSS.Foundation)
+- [BoSSS.Platform](BoSSS.Platform)
 
 ## Discretization and grids
 
-- [BoSSS.Foundation.Grid](BoSSS.Foundation.Grid.html)
-- [BoSSS.Foundation.SpecFEM](BoSSS.Foundation.SpecFEM.html)
-- [BoSSS.Foundation.XDG](BoSSS.Foundation.XDG.html)
+- [BoSSS.Foundation.Grid](BoSSS.Foundation.Grid)
+- [BoSSS.Foundation.SpecFEM](BoSSS.Foundation.SpecFEM)
+- [BoSSS.Foundation.XDG](BoSSS.Foundation.XDG)
 
 ## Utilities and tools
 
-- [BoSSS.PlotGenerator](BoSSS.PlotGenerator.html)
-- [ALTSTests](ALTSests.html)
+- [BoSSS.PlotGenerator](BoSSS.PlotGenerator)
+- [ALTSTests](ALTSests)
 
 ## Tests and examples
 
