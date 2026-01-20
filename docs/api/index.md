@@ -1,8 +1,27 @@
 ---
 title: "API Reference"
 ---
+
 # API Reference
 
+This section contains the API documentation for BoSSS.
+
+## Core framework
+
+- [BoSSS.Foundation](BoSSS.Foundation.html)
+- [BoSSS.Platform](BoSSS.Platform.html)
+
+## Discretization and grids
+
+- [BoSSS.Foundation.Grid](BoSSS.Foundation.Grid.html)
+- [BoSSS.Foundation.SpecFEM](BoSSS.Foundation.SpecFEM.html)
+- [BoSSS.Foundation.XDG](BoSSS.Foundation.XDG.html)
+
+## Utilities and tools
+
+- [BoSSS.PlotGenerator](BoSSS.PlotGenerator.html)
+- [ALTS Tests](ALTSests.html)
+
+## Tests and examples
+
 - [AdaptiveMeshRefinementTest](AdaptiveMeshRefinementTest.html)
-- [Grid2D](Grid2D.html)
-- [DifferentialOperator](DifferentialOperator.html)
