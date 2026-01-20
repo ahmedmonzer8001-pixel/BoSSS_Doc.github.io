@@ -1,3 +1,6 @@
+---
+title: "ALTSTests"
+---
 # Namespace: ALTSTests
 
 ## Class: ALTSTests.NUnitTests <a id="altstests.nunittests"></a>
@@ -30,3 +33,4 @@ to trigger the dynamic (re-)clustering.
 
 ### Property: ALTSTests.ScalarTransportFlux2D.ParameterOrdering <a id="altstests.scalartransportflux2d.parameterordering"></a>
 **Summary:** the transport velocity
+
