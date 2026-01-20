@@ -1,6 +1,7 @@
 ---
 title: "API Reference"
 nav_order: 3
+permalink: /docs/api/
 ---
 
 # API Reference
