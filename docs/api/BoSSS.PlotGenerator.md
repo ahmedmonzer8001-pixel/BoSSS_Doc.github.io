@@ -1,5 +1,7 @@
 ---
 title: "BoSSSPlotGenerator"
+parent: "API Reference"
+nav_order: 8
 ---
 # Namespace: BoSSS.PlotGenerator
 
@@ -230,4 +232,5 @@ referenced in the config file supplied as a command line argument
 **Parameter:** `args` - Command line arguments. Currently, only the first entry is used
 which has to contain the path to the configuration file containing
 the plot information
+
 
