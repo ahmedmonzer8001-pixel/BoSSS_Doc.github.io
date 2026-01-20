@@ -1,21 +1,13 @@
 title: BoSSS Documentation
 description: BoSSS Framework Documentation
 
-remote_theme: just-the-docs/just-the-docs
-
 url: "https://ahmedmonzer8001-pixel.github.io"
 baseurl: "/BoSSS_Doc.github.io"
 
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
 search_enabled: true
 heading_anchors: true
-
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-      nav_fold: true
