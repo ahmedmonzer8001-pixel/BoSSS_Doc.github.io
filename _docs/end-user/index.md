@@ -15,6 +15,7 @@ This guide applies only to end-user tutorials. Developer tutorials are not requi
 Start here:
 1.	Introduction to C# and Jupyter Notebooks / BoSSSpad
 2.	Simple channel flow using the Incompressible Solver
+
 After these two tutorials, you will be able to:
 *	run BoSSS interactively
 *	execute a complete CFD simulation
@@ -25,6 +26,7 @@ Read these next:
 3.	Grid Generation
 4.	Initial Values
 5.	Further Topics on Initial and Boundary Values
+
 These tutorials teach you how to:
 *	create and modify computational grids
 *	define initial conditions
@@ -35,6 +37,7 @@ You should read them before attempting to change physics or geometry.
 ### If you want to run a compressible flow simulation
 Read this tutorial:
 6.	An Isentropic Vortex with the Compressible Navier–Stokes Solver
+
 This tutorial assumes:
 *	familiarity with grids
 *	initial and boundary values
@@ -45,6 +48,7 @@ It introduces the compressible solver family and more advanced setups.
 ### If you can run simulations, but unsure whether the results are correct or not
 Read this tutorial:
 7.	Post-Processing, Errors, and Convergence (End-User View)
+
 This tutorial explains:
 *	how to interpret simulation results
 *	how to evaluate errors
@@ -55,6 +59,7 @@ You should read this before running large or expensive simulations.
 ### If you want to run many simulations or use a cluster
 Read this tutorial:
 8.	Workflow management and the Meta Job Scheduler
+
 This tutorial shows how to:
 *	run simulations non-interactively
 *	manage jobs on clusters
@@ -67,6 +72,7 @@ You should already understand:
 ### If you want to perform convergence studies or parameter sweeps
 Read this tutorial:
 9.	Convergence and Parameter Studies using the Meta Job Scheduler
+
 This is the final end-user tutorial. It teaches you how to:
 *	perform systematic refinement
 *	vary parameters
