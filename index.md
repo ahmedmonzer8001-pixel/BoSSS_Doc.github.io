@@ -3,7 +3,7 @@ title: "BoSSS-Documentation"
 nav_order: 0
 ---
 
-# BoSSS Documentation
+# BoSSS-Documentation
 
 Welcome to the BoSSS documentation.
 
