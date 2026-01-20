@@ -1,3 +1,6 @@
+---
+title: "ScalarTransport"
+---
 # Namespace: ScalarTransport
 
 ## Class: BoSSS.Application.ScalarTransport.ScalarTransportMain <a id="bosss.application.scalartransport.scalartransportmain"></a>
@@ -96,3 +99,4 @@
 
 ### Property: BoSSS.Application.ScalarTransport.ScalarTransportFlux3D.ParameterOrdering <a id="bosss.application.scalartransport.scalartransportflux3d.parameterordering"></a>
 **Summary:** the transport velocity
+
