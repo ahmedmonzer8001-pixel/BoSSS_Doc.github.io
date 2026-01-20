@@ -3,8 +3,20 @@ description: BoSSS Framework Documentation
 
 theme: just-the-docs
 
-baseurl: "/BoSSS_Doc.github.io"
 url: "https://ahmedmonzer8001-pixel.github.io"
+baseurl: "/BoSSS_Doc.github.io"
 
 search_enabled: true
 heading_anchors: true
+
+# Make docs a collection so Just the Docs builds a sidebar
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+      nav_fold: true
