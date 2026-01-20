@@ -1,3 +1,6 @@
+---
+title: "BoSSSFoundationGrid"
+---
 # Namespace: BoSSS.Foundation.Grid
 
 ## Class: BoSSS.Foundation.Grid.Classic.Grid1D <a id="bosss.foundation.grid.classic.grid1d"></a>
@@ -555,4 +558,5 @@ Recursion produces Stack overflow, when to many cells in mesh.
 **Parameter:** `a` - 
 **Parameter:** `b` - 
 **Returns:**
+
 
