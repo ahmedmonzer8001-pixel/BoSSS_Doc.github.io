@@ -5,11 +5,10 @@ permalink: /docs/end-user/
 ---
 
 # End-User Tutorials
+This guide applies only to end-user tutorials. Developer tutorials are not required for running, validating, or scaling simulations.
 
 ## Which Tutorial should you Read?
 This guide helps you quickly identify where to start and which tutorials are relevant to your goals when working with BoSSS as an end-user.
-#### Note:
-This guide applies only to end-user tutorials. Developer tutorials are not required for running, validating, or scaling simulations.
 
 ### If you are completely new to BoSSS
 Start here:
