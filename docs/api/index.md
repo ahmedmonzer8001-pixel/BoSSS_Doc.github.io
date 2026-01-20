@@ -20,7 +20,7 @@ This section contains the API documentation for BoSSS.
 ## Utilities and tools
 
 - [BoSSS.PlotGenerator](BoSSS.PlotGenerator.html)
-- [ALTS Tests](ALTSests.html)
+- [ALTSTests](ALTSests.html)
 
 ## Tests and examples
 
