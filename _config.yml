@@ -11,9 +11,14 @@ plugins:
 search_enabled: true
 heading_anchors: true
 
-# Make sure the theme knows your docs live in /docs
-defaults:
-  - scope:
-      path: "docs"
-    values:
-      nav_exclude: false
+# Tell Jekyll that _docs is a collection called "docs"
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+      nav_fold: true
