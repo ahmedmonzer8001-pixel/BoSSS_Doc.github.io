@@ -1,0 +1,10 @@
+title: BoSSS Documentation
+description: BoSSS Framework Documentation
+
+theme: just-the-docs
+
+baseurl: "/BoSSS_Doc.github.io"
+url: "https://ahmedmonzer8001-pixel.github.io"
+
+search_enabled: true
+heading_anchors: true
