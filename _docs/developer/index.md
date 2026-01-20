@@ -6,13 +6,13 @@ permalink: /docs/developer/
 
 # Developer Tutorials
 
+#### Scope:
+Developer tutorials are intended for users who want to modify the source in
+order to create their own solvers, they are not required for running simulations as an end user.
+
+
 ## Which Developer Tutorial Should you Read?
 This guide helps you choose the appropriate developer tutorial depending on your goal when working with the BoSSS framework.
-
-#### Scope:
-These tutorials are intended for users who want to understand, extend, or modify BoSSS solvers.
-
-They are not required for running simulations as an end user.
 
 
 ### If you want to understand the numerical foundations of BoSSS
