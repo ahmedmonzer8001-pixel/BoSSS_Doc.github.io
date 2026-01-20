@@ -29,6 +29,7 @@ These tutorials teach you how to:
 *	create and modify computational grids
 *	define initial conditions
 *	specify boundary conditions correctly
+
 You should read them before attempting to change physics or geometry.
 
 ### If you want to run a compressible flow simulation
@@ -38,6 +39,7 @@ This tutorial assumes:
 *	familiarity with grids
 *	initial and boundary values
 *	basic solver usage
+
 It introduces the compressible solver family and more advanced setups.
 
 ### If you can run simulations, but unsure whether the results are correct or not
@@ -65,8 +67,7 @@ You should already understand:
 ### If you want to perform convergence studies or parameter sweeps
 Read this tutorial:
 9.	Convergence and Parameter Studies using the Meta Job Scheduler
-This is the final end-user tutorial.
-It teaches you how to:
+This is the final end-user tutorial. It teaches you how to:
 *	perform systematic refinement
 *	vary parameters
 *	design reproducible numerical studies
