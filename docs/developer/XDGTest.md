@@ -1,3 +1,6 @@
+---
+title: "XDGTest"
+---
 # Namespace: XDGTest
 
 ## Class: BoSSS.Application.XDGTest.UnitTest <a id="bosss.application.xdgtest.unittest"></a>
@@ -50,3 +53,4 @@
 
 ### Field: BoSSS.Application.XDGTest.XDGTestMain.LevelSetDistancce <a id="bosss.application.xdgtest.xdgtestmain.levelsetdistancce"></a>
 **Summary:** marks cut, near and far cells.
+
