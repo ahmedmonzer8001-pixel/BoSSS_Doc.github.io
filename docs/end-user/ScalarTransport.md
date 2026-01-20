@@ -1,5 +1,7 @@
 ---
 title: "ScalarTransport"
+parent: "End-User Tutorials"
+nav_order: 1
 ---
 # Namespace: ScalarTransport
 
@@ -99,4 +101,5 @@ title: "ScalarTransport"
 
 ### Property: BoSSS.Application.ScalarTransport.ScalarTransportFlux3D.ParameterOrdering <a id="bosss.application.scalartransport.scalartransportflux3d.parameterordering"></a>
 **Summary:** the transport velocity
+
 
