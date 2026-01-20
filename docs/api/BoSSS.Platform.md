@@ -1,5 +1,7 @@
 ---
 title: "BoSSSPlatform"
+parent: "API Reference"
+nav_order: 7
 ---
 # Namespace: BoSSS.Platform
 
@@ -1781,5 +1783,6 @@ see especially **ilPSP.IBlockPartitioning.GetBlockType(System.Int64)**, **ilPSP.
 **Parameter:** `ignoreEmptyBlocks` - 
 **Parameter:** `SymmetricalInversion` - If true, symmetrical blocks are assumed, which are inverted by **ilPSP.IMatrixExtensions.InvertSymmetrical``1(``0)**.
 **Returns:**
+
 
 
