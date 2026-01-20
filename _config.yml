@@ -1,17 +1,19 @@
 title: BoSSS Documentation
 description: BoSSS Framework Documentation
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
 
 url: "https://ahmedmonzer8001-pixel.github.io"
 baseurl: "/BoSSS_Doc.github.io"
 
 remote_theme: just-the-docs/just-the-docs
-
 plugins:
   - jekyll-remote-theme
 
 search_enabled: true
 heading_anchors: true
+
+# Make sure the theme knows your docs live in /docs
+defaults:
+  - scope:
+      path: "docs"
+    values:
+      nav_exclude: false
