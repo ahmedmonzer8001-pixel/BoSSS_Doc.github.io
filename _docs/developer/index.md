@@ -11,7 +11,9 @@ This guide helps you choose the appropriate developer tutorial depending on your
 
 #### Scope:
 These tutorials are intended for users who want to understand, extend, or modify BoSSS solvers.
+
 They are not required for running simulations as an end user.
+
 
 ### If you want to understand the numerical foundations of BoSSS
 Start here:
@@ -86,6 +88,17 @@ Read these tutorials (optional):
 These tutorials cover:
 *	advanced grid and algebra concepts
 *	performance-critical internal details
+
 They are not required for most solver development tasks.
-________________________________________
-I want to analyze 
+
+
+### If you want to analyze performance or interface with external tools
+Read these tutorials:
+11.	Memory Profiling of an Application
+12.	Interacting with Matlab
+
+These tutorials explain:
+*	memory usage and profiling techniques
+*	coupling BoSSS with external analysis tools
+
+They are independent of numerical foundations.
