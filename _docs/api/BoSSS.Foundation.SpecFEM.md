@@ -1,7 +1,8 @@
 ---
-title: "BoSSSFoundationSpecFEM"
+title: "BoSSS.Foundation.SpecFEM"
 parent: "API Reference"
-nav_order: 4
+nav_order: 6
+permalink: /docs/api/BoSSS.Foundation.SpecFEM/
 ---
 # Namespace: BoSSS.Foundation.SpecFEM
 
@@ -269,5 +270,6 @@ local operations for each cell.
 ## Class: BoSSS.Foundation.SpecFEM.Transceiver <a id="bosss.foundation.specfem.transceiver"></a>
 
 **Summary:** MPI data exchange for Spectral Elements
+
 
 
