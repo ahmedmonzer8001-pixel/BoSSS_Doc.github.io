@@ -1,3 +1,6 @@
+---
+title: "BoSSSFoundationXDG"
+---
 # Namespace: BoSSS.Foundation.XDG
 
 ## Class: BoSSS.Foundation.XDG.AgglomerationAlgorithm <a id="bosss.foundation.xdg.agglomerationalgorithm"></a>
@@ -9192,3 +9195,4 @@ in analog fashion to the spatial operator.
 
 ## Method: BoSSS.Foundation.XDG.DependentXTemporalOperator.GetMassMatrixBuilder(BoSSS.Foundation.UnsetteledCoordinateMapping,System.Collections.Generic.IList{BoSSS.Foundation.DGField},BoSSS.Foundation.UnsetteledCoordinateMapping) <a id="bosss.foundation.xdg.dependentxtemporaloperator.getmassmatrixbuilder(bosss.foundation.unsetteledcoordinatemapping,system.collections.generic.ilist{bosss.foundation.dgfield},bosss.foundation.unsetteledcoordinatemapping)"></a>
 **Summary:** as defined by interface
+
