@@ -1,3 +1,6 @@
+---
+title: "BoSSSFoundation"
+---
 # Namespace: BoSSS.Foundation
 
 ## Class: BoSSS.Foundation.IO.AdvancedLookupBinder <a id="bosss.foundation.io.advancedlookupbinder"></a>
@@ -19674,3 +19677,4 @@ to 'result'.
 This method is vectorized: Here, it means that the Points at which the DG field should be evaluated,
 are given for one cell in reference coordinates, but
 the evaluation is performed for 'Len' cells at once.
+
