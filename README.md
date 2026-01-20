@@ -1,2 +1,7 @@
 # BoSSS_Doc.github.io
-Documentation website for BoSSS
+Welcome to the documentation of BoSSS.
+
+## Sections
+- End-User Tutorials
+- Developer Tutorials
+- API Reference
