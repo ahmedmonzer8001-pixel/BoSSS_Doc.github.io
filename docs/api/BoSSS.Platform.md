@@ -1,3 +1,6 @@
+---
+title: "BoSSSPlatform"
+---
 # Namespace: BoSSS.Platform
 
 ## Class: BoSSS.Platform.LinAlg.AffineManifold <a id="bosss.platform.linalg.affinemanifold"></a>
@@ -1778,4 +1781,5 @@ see especially **ilPSP.IBlockPartitioning.GetBlockType(System.Int64)**, **ilPSP.
 **Parameter:** `ignoreEmptyBlocks` - 
 **Parameter:** `SymmetricalInversion` - If true, symmetrical blocks are assumed, which are inverted by **ilPSP.IMatrixExtensions.InvertSymmetrical``1(``0)**.
 **Returns:**
+
 
