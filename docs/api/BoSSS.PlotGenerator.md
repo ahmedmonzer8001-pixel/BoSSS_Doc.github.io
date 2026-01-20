@@ -1,3 +1,6 @@
+---
+title: "BoSSSPlotGenerator"
+---
 # Namespace: BoSSS.PlotGenerator
 
 ## Class: BoSSS.PlotGenerator.FieldStateConfiguration <a id="bosss.plotgenerator.fieldstateconfiguration"></a>
@@ -227,3 +230,4 @@ referenced in the config file supplied as a command line argument
 **Parameter:** `args` - Command line arguments. Currently, only the first entry is used
 which has to contain the path to the configuration file containing
 the plot information
+
