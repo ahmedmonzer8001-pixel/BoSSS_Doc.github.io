@@ -1,5 +1,9 @@
 title: BoSSS Documentation
 description: BoSSS Framework Documentation
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
 
 url: "https://ahmedmonzer8001-pixel.github.io"
 baseurl: "/BoSSS_Doc.github.io"
