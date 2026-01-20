@@ -1,7 +1,8 @@
 ---
-title: "BoSSSFoundationGrid"
+title: "BoSSS.Foundation.Grid"
 parent: "API Reference"
 nav_order: 3
+permalink: /docs/api/BoSSS.Foundation.Grid/
 ---
 # Namespace: BoSSS.Foundation.Grid
 
@@ -560,6 +561,7 @@ Recursion produces Stack overflow, when to many cells in mesh.
 **Parameter:** `a` - 
 **Parameter:** `b` - 
 **Returns:**
+
 
 
 
