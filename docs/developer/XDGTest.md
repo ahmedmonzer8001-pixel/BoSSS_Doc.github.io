@@ -1,5 +1,7 @@
 ---
 title: "XDGTest"
+parent: "Developer Tutorials"
+nav_order: 1
 ---
 # Namespace: XDGTest
 
@@ -53,4 +55,5 @@ title: "XDGTest"
 
 ### Field: BoSSS.Application.XDGTest.XDGTestMain.LevelSetDistancce <a id="bosss.application.xdgtest.xdgtestmain.levelsetdistancce"></a>
 **Summary:** marks cut, near and far cells.
+
 
