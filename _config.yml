@@ -1,7 +1,7 @@
 title: BoSSS Documentation
 description: BoSSS Framework Documentation
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: "https://ahmedmonzer8001-pixel.github.io"
 baseurl: "/BoSSS_Doc.github.io"
