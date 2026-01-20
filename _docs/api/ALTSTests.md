@@ -2,6 +2,7 @@
 title: "ALTSTests"
 parent: "API Reference"
 nav_order: 1
+permalink: /docs/api/ALTSTests/
 ---
 # Namespace: ALTSTests
 
@@ -35,5 +36,6 @@ to trigger the dynamic (re-)clustering.
 
 ### Property: ALTSTests.ScalarTransportFlux2D.ParameterOrdering <a id="altstests.scalartransportflux2d.parameterordering"></a>
 **Summary:** the transport velocity
+
 
 
