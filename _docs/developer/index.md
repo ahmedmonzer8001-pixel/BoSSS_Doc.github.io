@@ -5,8 +5,6 @@ permalink: /docs/developer/
 ---
 
 # Developer Tutorials
-
-#### Scope:
 Developer tutorials are intended for users who want to modify the source in
 order to create their own solvers, they are not required for running simulations as an end user.
 
