@@ -1,7 +1,7 @@
 ---
 title: "BoSSS.Foundation"
 parent: "API Reference"
-nav_order: 6
+nav_order: 2
 permalink: /docs/api/BoSSS.Foundation/
 ---
 # Namespace: BoSSS.Foundation
@@ -19680,6 +19680,7 @@ to 'result'.
 This method is vectorized: Here, it means that the Points at which the DG field should be evaluated,
 are given for one cell in reference coordinates, but
 the evaluation is performed for 'Len' cells at once.
+
 
 
 
