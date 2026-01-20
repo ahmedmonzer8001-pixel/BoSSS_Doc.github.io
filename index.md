@@ -8,6 +8,6 @@ nav_order: 0
 Welcome to the documentation of **BoSSS**.
 
 ## Sections
-- [End-User Tutorials](docs/end-user/)
-- [Developer Tutorials](docs/developer/)
-- [API Reference](docs/api/)
+- [End-User Tutorials](/docs/end-user/)
+- [Developer Tutorials](/docs/developer/)
+- [API Reference](/docs/api/)
